@@ -1,0 +1,15 @@
+program: main.py
+method: grid
+project: DMTNML
+name: sweepNG20
+parameters:
+  config:
+    values: ['conf_new/nml4/NG20.yaml']
+command:
+  - ${env}
+  - ${interpreter}
+  - ${program}
+  - validate
+  - ${args}
+
+

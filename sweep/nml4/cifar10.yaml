@@ -1,0 +1,14 @@
+program: main.py
+method: grid
+project: DMTNML
+name: sweepcifar10
+parameters:
+  config:
+    values: ['conf_new/nml4/cifar10.yaml']
+command:
+  - ${env}
+  - ${interpreter}
+  - ${program}
+  - fit
+  - ${args}
+

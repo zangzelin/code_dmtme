@@ -1,0 +1,14 @@
+program: main.py
+method: grid
+project: DMTNML
+name: sweepHCL
+parameters:
+  config:
+    values: ['conf_new/nml4/HCL.yaml']
+command:
+  - ${env}
+  - ${interpreter}
+  - ${program}
+  - fit
+  - ${args}
+

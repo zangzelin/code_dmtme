@@ -1,0 +1,14 @@
+program: main.py
+method: grid
+project: DMTNML
+name: sweepMnist
+parameters:
+  config:
+    values: ['conf_new/nml4/mnist.yaml']
+command:
+  - ${env}
+  - ${interpreter}
+  - ${program}
+  - fit
+  - ${args}
+
