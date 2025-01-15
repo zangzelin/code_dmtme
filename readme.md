@@ -1,5 +1,7 @@
 # DMT-HI: MOE-based Hyperbolic Interpretable Deep Manifold Transformation for Unspervised Dimensional Reduction
 
+(Our Paper)[https://arxiv.org/abs/2410.19504]
+
 The code includes the following modules:
 * Datasets (Mnist, CIFAR-10, HCL, 20newsgroups)
 * Training for DMT-HI
