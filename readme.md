@@ -1,4 +1,4 @@
-# DMT-HI: MOE-based Hyperbolic Interpretable Deep Manifold Transformation for Unspervised Dimensional Reduction
+# DMT-ME: MOE-based Hyperbolic Interpretable Deep Manifold Transformation for Unspervised Dimensional Reduction
 
 (Our Paper)[https://arxiv.org/abs/2410.19504]
 
